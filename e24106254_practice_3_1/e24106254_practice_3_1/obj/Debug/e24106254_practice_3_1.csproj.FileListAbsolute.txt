@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\學校文件\二上\作業\視窗程式設計\e24106254_practice_3_1\e24106254_practice_3_1\bin\Debug\e24106254_practice_3_1.exe.config
+C:\Users\admin\Desktop\學校文件\二上\作業\視窗程式設計\e24106254_practice_3_1\e24106254_practice_3_1\bin\Debug\e24106254_practice_3_1.exe
+C:\Users\admin\Desktop\學校文件\二上\作業\視窗程式設計\e24106254_practice_3_1\e24106254_practice_3_1\bin\Debug\e24106254_practice_3_1.pdb
+C:\Users\admin\Desktop\學校文件\二上\作業\視窗程式設計\e24106254_practice_3_1\e24106254_practice_3_1\obj\Debug\e24106254_practice_3_1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\學校文件\二上\作業\視窗程式設計\e24106254_practice_3_1\e24106254_practice_3_1\obj\Debug\e24106254_practice_3_1.Form1.resources
+C:\Users\admin\Desktop\學校文件\二上\作業\視窗程式設計\e24106254_practice_3_1\e24106254_practice_3_1\obj\Debug\e24106254_practice_3_1.Properties.Resources.resources
+C:\Users\admin\Desktop\學校文件\二上\作業\視窗程式設計\e24106254_practice_3_1\e24106254_practice_3_1\obj\Debug\e24106254_practice_3_1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\學校文件\二上\作業\視窗程式設計\e24106254_practice_3_1\e24106254_practice_3_1\obj\Debug\e24106254_practice_3_1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\學校文件\二上\作業\視窗程式設計\e24106254_practice_3_1\e24106254_practice_3_1\obj\Debug\e24106254_practice_3_1.exe
+C:\Users\admin\Desktop\學校文件\二上\作業\視窗程式設計\e24106254_practice_3_1\e24106254_practice_3_1\obj\Debug\e24106254_practice_3_1.pdb
